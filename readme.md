@@ -1,4 +1,4 @@
-#Chords
+#Calculator
 **Author:** Julio Martínez Ballester
 
 **Development Date:** 11/2016
@@ -8,7 +8,6 @@
 **iOS Deployment Target:** 10.1
 
 #Description
-Simple app to remember guitar and piano chords with images.
+App that simulates calculator application from MacOX. 
 
-**Working with:** UIStackView, AutoLayout, UIAppearance 
-
+**Working with:** New Swift features, Adaptive UI 
