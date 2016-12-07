@@ -12,6 +12,7 @@
 		8E9F08BD1DD912D00005F569 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E9F08BB1DD912D00005F569 /* Main.storyboard */; };
 		8E9F08BF1DD912D00005F569 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E9F08BE1DD912D00005F569 /* Assets.xcassets */; };
 		8E9F08C21DD912D00005F569 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E9F08C01DD912D00005F569 /* LaunchScreen.storyboard */; };
+		8E9F08CA1DD913040005F569 /* WorkSans-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E9F08C91DD913040005F569 /* WorkSans-ExtraLight.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8E9F08BE1DD912D00005F569 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E9F08C11DD912D00005F569 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E9F08C31DD912D00005F569 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E9F08C91DD913040005F569 /* WorkSans-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-ExtraLight.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8E9F08B71DD912D00005F569 /* AppDelegate.swift */,
 				8E9F08B91DD912D00005F569 /* ViewController.swift */,
 				8E9F08BB1DD912D00005F569 /* Main.storyboard */,
+				8E9F08C91DD913040005F569 /* WorkSans-ExtraLight.ttf */,
 				8E9F08BE1DD912D00005F569 /* Assets.xcassets */,
 				8E9F08C01DD912D00005F569 /* LaunchScreen.storyboard */,
 				8E9F08C31DD912D00005F569 /* Info.plist */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E9F08CA1DD913040005F569 /* WorkSans-ExtraLight.ttf in Resources */,
 				8E9F08C21DD912D00005F569 /* LaunchScreen.storyboard in Resources */,
 				8E9F08BF1DD912D00005F569 /* Assets.xcassets in Resources */,
 				8E9F08BD1DD912D00005F569 /* Main.storyboard in Resources */,
